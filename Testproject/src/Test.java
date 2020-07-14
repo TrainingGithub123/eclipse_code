@@ -5,3 +5,6 @@ System.out.print("Helloooo");
 }
 
 }
+
+
+output - Helloooo
